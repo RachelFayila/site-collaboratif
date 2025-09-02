@@ -15,8 +15,6 @@ Le site contient :
 - Une section vide (prévue pour du contenu futur)
 - Un formulaire de contact simple
 
-   git clone https://github.com/RachelFayila/site-collaboratif.git
-   
    📬 Contact
 
 Vous pouvez contribuer ou envoyer vos questions via le formulaire de contact sur le site.
