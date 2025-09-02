@@ -15,8 +15,6 @@ Le site contient :
 - Une section vide (prévue pour du contenu futur)
 - Un formulaire de contact simple
 
-1. Cloner le repo :
-   ```bash
    git clone https://github.com/RachelFayila/site-collaboratif.git
    
    📬 Contact
