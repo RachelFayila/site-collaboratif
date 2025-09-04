@@ -1,24 +1,14 @@
-🌐 Site Collaboratif
+## Site Collaboratif
 
-Un petit projet web conçu pour tester la collaboration entre développeurs.
+Projet d’apprentissage Git et GitHub.  
+Ce projet contient :
 
-📁 Structure du projet
+- Une page d’accueil (index.html)
+- Une feuille de style (style.css)
+- Une page de contact (contact.html)
 
-- `index.html` — Structure HTML de la page (Accueil, Espace Vide, Contact)
-- `style.css` — Mise en forme du site
-- `README.md` — Informations sur le projet
-
-🖥️ Aperçu
-
-Le site contient :
-- Une page d’accueil avec un message de bienvenue
-- Une section vide (prévue pour du contenu futur)
-- Un formulaire de contact simple
-
-   📬 Contact
-
-Vous pouvez contribuer ou envoyer vos questions via le formulaire de contact sur le site.
-
-📝 Licence
-
-Ce projet est open source — libre à vous de le modifier et le partager.
+## Objectifs du projet
+- Apprendre les bases de Git et GitHub
+- Travailler en branches
+- Gérer des conflits et Pull Requests
+- Simuler un vrai workflow collaboratif
